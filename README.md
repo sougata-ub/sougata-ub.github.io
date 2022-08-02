@@ -20,7 +20,7 @@ I am a PhD student and instructor at the [Department of Computer Science and Eng
 - **Teaching Assistant** for Introduction to Information Retrieval (CSE 4/535) - Fall 2020
 - **Teaching Assistant** for Introduction to Machine Learning (CSE 4/575) - Fall 2020
 
-## Other Activities
+## Professional Activities
 - Organizer, [9th Workshop on Argument Mining at Coling 2022](https://argmining-org.github.io/2022/)
 - Reviewer, [EMNLP 2022](https://2022.emnlp.org/)
 - President, [UB Computer Science and Engineering Graduate Student Association (CSE GSA)](https://engineering.buffalo.edu/computer-science-engineering/people/professional-and-student-organizations/computer-science-and-engineering-graduate-student-association.html) 2020-2021
