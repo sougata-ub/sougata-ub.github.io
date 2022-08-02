@@ -1,4 +1,6 @@
-# sougata-ub.github.io
+# Sougata Saha
+![image](https://user-images.githubusercontent.com/59206549/182381981-671069f6-ed64-41c3-98e3-a33bff755da0.png)
+
 Hello World! I am Sougata Saha, a PhD student @ University at Buffalo, New York. Advised by Dr. Rohini K. Srihari, my research interests lie in conversational systems, deep learning, and natural language processing.
 
 ## Research
