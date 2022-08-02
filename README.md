@@ -8,12 +8,12 @@ Hello World! I am Sougata Saha, a PhD student @ University at Buffalo, New York.
 - Team Naam-pAI : First runners up in the eBay University Machine Learning Competition 2019: https://evalai.cloudcv.org/web/challenges/challenge-page/462/overview
 
 ## Teaching
-- Instructor for Introduction to Information Retrieval (CSE 4/535) - Fall 2022
+- **Instructor** for Introduction to Information Retrieval (CSE 4/535) - Fall 2022
   - Course Syllabus: [CSE535-Syllabus-Fall2022.pdf](https://github.com/sougata-ub/sougata-ub.github.io/files/9240948/CSE535-Syllabus-Fall2022.pdf)
-- Teaching Assistant for Natural Language Processing and Text Mining (CSE 635) - Spring 2022
-- Teaching Assistant for Introduction to Information Retrieval (CSE 4/535) - Fall 2021
-- Teaching Assistant for Natural Language Processing and Text Mining (CSE 635) - Spring 2021
-- Teaching Assistant for Introduction to Information Retrieval (CSE 4/535) - Fall 2020
-- Teaching Assistant for Introduction to Machine Learning (CSE 4/575) - Fall 2020
+- **Teaching Assistant** for Natural Language Processing and Text Mining (CSE 635) - Spring 2022
+- **Teaching Assistant** for Introduction to Information Retrieval (CSE 4/535) - Fall 2021
+- **Teaching Assistant** for Natural Language Processing and Text Mining (CSE 635) - Spring 2021
+- **Teaching Assistant** for Introduction to Information Retrieval (CSE 4/535) - Fall 2020
+- **Teaching Assistant** for Introduction to Machine Learning (CSE 4/575) - Fall 2020
 
 ## Other aspects of Life
