@@ -1,5 +1,5 @@
 # Sougata Saha
-
+![Logo](/github_profile_pic.png)
 I am [Sougata Saha](https://www.linkedin.com/in/sougata-saha-8964149a/), a PhD student and instructor at the University at Buffalo, New York. I am currently advised by [Dr. Rohini K. Srihari](https://www.acsu.buffalo.edu/~rohini/), and my current research focuses on argumentation mining from discourse and persuasive conversational systems. In general my research interests include purposeful conversational systems (i.e. conversational systems for persuasion, deliberation, and negotiation), open domain (chit-chat) conversational systems, multi-lingual conversational systems, and any topics in Natural Language Processing that can be geared towards social good.
 
 ## Research
