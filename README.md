@@ -1,7 +1,6 @@
 # Sougata Saha
-![image](https://user-images.githubusercontent.com/59206549/182381981-671069f6-ed64-41c3-98e3-a33bff755da0.png)
 
-Hello World! I am Sougata Saha, a PhD student @ University at Buffalo, New York. Advised by Dr. Rohini K. Srihari, my research interests lie in conversational systems, deep learning, and natural language processing.
+I am [Sougata Saha](https://www.linkedin.com/in/sougata-saha-8964149a/), a PhD student and instructor at the University at Buffalo, New York. I am currently advised by [Dr. Rohini K. Srihari](https://www.acsu.buffalo.edu/~rohini/), and my current research focuses on argumentation mining from discourse and persuasive conversational systems. In general my research interests include purposeful conversational systems (i.e. conversational systems for persuasion, deliberation, and negotiation), open domain (chit-chat) conversational systems, multi-lingual conversational systems, and any topics in Natural Language Processing that can be geared towards social good.
 
 ## Research
 - [Stylistic Response Generation by Controlling Personality Traits and Intent](https://aclanthology.org/2022.nlp4convai-1.16/). Proceedings of the 4th Workshop on NLP for Conversational AI @ ACL 2022.
