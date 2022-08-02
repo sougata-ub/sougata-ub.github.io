@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a PhD student and instructor at the University at Buffalo, New York, and currently advised by [Dr. Rohini K. Srihari](https://www.acsu.buffalo.edu/~rohini/). My current research focuses on argumentation mining from discourse and persuasive conversational systems. In general my research interests include purposeful conversational systems (i.e. conversational systems for persuasion, deliberation, and negotiation), open domain (chit-chat) conversational systems, multi-lingual conversational systems, and any topics in Natural Language Processing that can be geared towards social good.
+I am a PhD student and instructor at the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at [University at Buffalo, New York](https://www.buffalo.edu/). I am advised by [Dr. Rohini K. Srihari](https://www.acsu.buffalo.edu/~rohini/), and my current research focuses on argumentation mining from discourse and persuasive conversational systems. In general my research interests include purposeful conversational systems (i.e. conversational systems for persuasion, deliberation, and negotiation), open domain (chit-chat) conversational systems, multi-lingual conversational systems, and any topics in Natural Language Processing that can be geared towards social good.
 
 ## Research
 - [EDU-AP: Elementary Discourse Unit based Argument Parser](https://2022.sigdial.org/accepted-papers-list/). **Sougata Saha, Souvik Das and Rohini Srihari**. SIGDIAL 2022. [Code](https://sougata-ub.github.io/edu-ap/)
