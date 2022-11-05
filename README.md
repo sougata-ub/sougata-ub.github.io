@@ -26,8 +26,7 @@ I am a PhD student and instructor at the [Department of Computer Science and Eng
 
 ## Professional Activities
 - Organizer, [9th Workshop on Argument Mining at Coling 2022](https://argmining-org.github.io/2022/)
-- Reviewer, [EMNLP 2022](https://2022.emnlp.org/)
-- Reviewer, [ICON 2022](https://lcs2.in/ICON-2022/)
-- Reviewer, [The journal of Artificial Intelligence, Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
+- Conference reviewer, ([EMNLP 2022](https://2022.emnlp.org/), [COLING 2022](https://coling2022.org/), [ICON 2022](https://lcs2.in/ICON-2022/))
+- Journal Reviewer, [The journal of Artificial Intelligence, Elsevier](https://www.journals.elsevier.com/artificial-intelligence)
 - President, [UB Computer Science and Engineering Graduate Student Association (CSE GSA)](https://engineering.buffalo.edu/computer-science-engineering/people/professional-and-student-organizations/computer-science-and-engineering-graduate-student-association.html) 2020-2021
 - Team Leader, [Proto @ Alexa Prize Socialbot Grand Challenge 4, 2020-2021](https://www.amazon.science/alexa-prize/teams/proto)
