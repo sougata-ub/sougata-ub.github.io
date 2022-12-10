@@ -18,6 +18,7 @@ I am a PhD student and instructor at the [Department of Computer Science and Eng
 ## Teaching
 - **Instructor** for Introduction to Information Retrieval (CSE 4/535) - Fall 2022
   - Course Syllabus: [CSE535-Syllabus-Fall2022.pdf](https://github.com/sougata-ub/sougata-ub.github.io/files/9240948/CSE535-Syllabus-Fall2022.pdf)
+  - Class Pictures: [cse_535_class_pics](https://github.com/sougata-ub/sougata-ub.github.io/blob/main/cse_535_class_pics/)
 - **Teaching Assistant** for Natural Language Processing and Text Mining (CSE 635) - Spring 2022
 - **Teaching Assistant** for Introduction to Information Retrieval (CSE 4/535) - Fall 2021
 - **Teaching Assistant** for Natural Language Processing and Text Mining (CSE 635) - Spring 2021
