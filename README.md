@@ -4,7 +4,7 @@ I am a PhD student and instructor at the [Department of Computer Science and Eng
 
 ## Research
 - [ArgU: A Controllable Factual Argument Generator](https://aclanthology.org/2023.acl-long.466.pdf). **Sougata Saha and Rohini Srihari**. ACL 2023. [Code](https://sougata-ub.github.io/argu-generator/)
-- [Rudolf Christoph Eucken at SemEval-2023 Task 4: An Ensemble Approach for Identifying Human Values from Arguments](https://aclanthology.org/2023.semeval-1.90.pdf)]. **Sougata Saha and Rohini Srihari**. ACL 2023. [Code](https://sougata-ub.github.io/semeval_2023_rudolf_christoph_eucken/)
+- [Rudolf Christoph Eucken at SemEval-2023 Task 4: An Ensemble Approach for Identifying Human Values from Arguments](https://aclanthology.org/2023.semeval-1.90.pdf). **Sougata Saha and Rohini Srihari**. ACL 2023. [Code](https://sougata-ub.github.io/semeval_2023_rudolf_christoph_eucken/)
 - [Dialo-AP: A Dependency Parsing Based Argument Parser for Dialogues](https://aclanthology.org/2022.coling-1.74/). **Sougata Saha, Souvik Das and Rohini Srihari**. Coling 2022. [Code](https://sougata-ub.github.io/dialo-ap/)
 - [EDU-AP: Elementary Discourse Unit based Argument Parser](https://aclanthology.org/2022.sigdial-1.19/). **Sougata Saha, Souvik Das and Rohini Srihari**. SIGDIAL 2022 (_**Best Paper Nomination**_ https://2022.sigdial.org/best-paper-nominations/). [Code](https://sougata-ub.github.io/edu-ap/)
 - [Using Multi-Encoder Fusion Strategies to Improve Personalized Response Selection](https://aclanthology.org/2022.coling-1.44.pdf). **Souvik Das, Sougata Saha and Rohini Srihari**. Coling 2022.
